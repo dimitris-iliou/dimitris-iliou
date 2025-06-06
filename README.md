@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am a Full Stack Developer and DevOps Engineer, currently working in both the Open-Source Office and the Privacy & Responsible AI department at HERE Technologies. My role involves setting up, adopting, and maintaining the OSS Review Toolkit—an open-source tool designed to ensure license compliance, freely available for any software company. I focus on building automations, developing software, and solving challenges to streamline the release process, making it easier for developers and product owners to launch the latest versions of their products efficiently.
 
+Here is my CV: [DIMITRIS_ILIOU_CV](https://docs.google.com/document/d/e/2PACX-1vT80ZXihtjWPLiT4FyN9z24_63kbMW-TPB_dIfYsMbcMEIKEKmumT5CGUvwVaHKUzvd8jQiD1rfzcJE/pub)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dimitr_is) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dimitrisiliou) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Dimitris-Iliou) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dimis.ilioy@gmail.com) 
